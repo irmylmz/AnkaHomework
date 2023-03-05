@@ -57,4 +57,31 @@
       </footer>
 
 
+ <a name="sayfabasi"></a>
+<a href="#sayfabasi"><i class="fa fa-level-up" aria-hidden="true"></i></a>
 
+.mark-1 {
+	top: 0%;
+	left: 0%;
+    font-size: 25px;
+    float:inline-start;
+    width: 1400px;
+    height: 7%;
+    background-color: rgb(87, 82, 82);
+    opacity: 50%;
+}
+
+.navbar {
+    margin-top: 5px;
+    margin-left: -140px;
+}
+
+.mark-1 ul li{
+    display: inline;
+    color:azure !important;
+    margin: 99px;
+}
+
+.mark-1 ul li a i{
+    color: rgb(0, 0, 0);
+}

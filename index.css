@@ -66,7 +66,6 @@ body {
 	
 }
 
-
 .mark {
 	font-size: 10px;
 	color: rgba( 0, 0, 0, 0.5);
@@ -74,34 +73,8 @@ body {
     display: inline;
 }
 
-.mark-1 {
-	top: 0%;
-	left: 0%;
-    font-size: 25px;
-    float:inline-start;
-    width: 1400px;
-    height: 7%;
-    background-color: rgb(87, 82, 82);
-    opacity: 50%;
-}
-
-.navbar {
-    margin-top: 5px;
-    margin-left: -140px;
-}
-
-.mark-1 ul li{
-    display: inline;
-    color:azure !important;
-    margin: 99px;
-}
-
-.mark-1 ul li a i{
-    color: rgb(0, 0, 0);
-}
-
 .mark-2 {
-	top: 19%;
+	top: 15%;
 	right: 17%;
 }
 
@@ -110,7 +83,7 @@ body {
 }
 
 .mark-3 {
-	top: 20%;
+	top: 17%;
 	left: 5%;
     font-size: 15px;
 }
@@ -132,8 +105,29 @@ body {
 }
 
 .mark-4 {
-	bottom: 10%;
-	right: 20%;
+	bottom: 0%;
+	left: 0%;
+    font-size: 25px;
+    float:inline-start;
+    width: 1400px;
+    height: 7%;
+    background-color: rgb(87, 82, 82);
+    opacity: 50%;
+}
+
+.footer-social{
+	margin-top: 10px;
+    margin-left: -140px;
+}
+
+.mark-4 ul li{
+    display: inline;
+    color:azure !important;
+    margin: 75px;
+}
+
+.mark-4 ul li a i{
+    color: rgb(0, 0, 0);
 }
 
 .mark-5{

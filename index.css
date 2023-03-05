@@ -105,7 +105,7 @@ body {
 	right: 17%;
 }
 
-.mark-2 img{
+#mark-2-img{
     border-radius: 50%;
 }
 
@@ -115,8 +115,20 @@ body {
     font-size: 15px;
 }
 
-.education{
+.educations{
     font-size: 18px;
+}
+
+#education{
+	color:rgb(68, 41, 41);
+}
+
+#TRbiography{
+	color:rgb(68, 41, 41);
+}
+
+#ENGbiography{
+	color:rgb(68, 41, 41);
 }
 
 .mark-4 {
